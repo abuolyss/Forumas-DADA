@@ -1,0 +1,3 @@
+<?php $pageTitle='Sukurti kategoriją'; $base='../'; include '../includes/header.php'; ?>
+<div class="form-page"><div class="panel form-card"><div class="eyebrow">Administravimas</div><h1 class="page-title" style="font-size:30px">Sukurti kategoriją</h1><form><div class="field"><label>Kategorijos pavadinimas</label><input placeholder="pvz. Fotografija"></div><div class="field"><label>Aprašymas</label><textarea placeholder="Trumpas kategorijos aprašymas"></textarea></div><div class="form-actions"><a class="button button-ghost" href="categories.php">Atšaukti</a><button class="button button-primary">Sukurti kategoriją</button></div></form></div></div>
+<?php include '../includes/footer.php'; ?>
